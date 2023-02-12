@@ -1,0 +1,5 @@
+# ninja log v5
+4	486	6979460183271503	CMakeFiles/cpp_mysql.dir/main.cpp.obj	a541e9f3c1164670
+428	591	6979357297907447	cpp_mysql.exe	5dbcc38938407c17
+1	193	6979460368833611	build.ninja	a0539d1253788a6f
+0	9	0	clean	c9afa0e3dd96f73e

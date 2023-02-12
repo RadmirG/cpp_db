@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/STUDIUM/C++/cpp_mysql/cmake-build-debug/CMakeFiles/cpp_mysql.dir
+C:/Users/Lenovo/Documents/STUDIUM/C++/cpp_mysql/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/STUDIUM/C++/cpp_mysql/cmake-build-debug/CMakeFiles/rebuild_cache.dir
